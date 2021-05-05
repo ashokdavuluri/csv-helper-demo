@@ -1,4 +1,12 @@
-{"id": 1, "title": 'Take out bins'},
-    {"id": 2, "title": 'Cut grass'},
-    {"id": 3, "title": 'Pick up kids'
-    }
+{
+    "id": 1,
+    "title": "Take out bins"
+},
+{
+    "id": 2,
+    "title": "Cut grass"
+},
+{
+    "id": 3,
+    "title": "Pick up kids"
+}
